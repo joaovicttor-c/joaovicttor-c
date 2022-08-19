@@ -1,6 +1,6 @@
 ## Olá, me chamo João Victor ! 
 ### Bem vindo ao meu perfil GitHub 👋
-- Tenho 20, atualmente moro em Alta Floresta/MT, sou iniciante em programação e estudando tecnologias Front-end
+- Tenho 20 anos, atualmente moro em Alta Floresta/MT, sou iniciante em programação e estudando tecnologias Front-end
 - Atualmente estudo por um curso online na Udemy.
 - <a href="#">Meu Potifólio</a>
 
